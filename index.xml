@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Makoto Suwama</title>
+    <link>https://msuwama.github.io/</link>
+      <atom:link href="https://msuwama.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Makoto Suwama</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://msuwama.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Makoto Suwama</title>
+      <link>https://msuwama.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Balanced Centrifuge Problem</title>
+      <link>https://msuwama.github.io/talk/balanced-centrifuge/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://msuwama.github.io/talk/balanced-centrifuge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supersingular Primes for an Elliptic Curve</title>
+      <link>https://msuwama.github.io/talk/supersingular/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://msuwama.github.io/talk/supersingular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elliptic Curves in Cryptography</title>
+      <link>https://msuwama.github.io/talk/ec-crypto/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://msuwama.github.io/talk/ec-crypto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supersingular Primes for Elliptic Curves over $\mathbb{Q}$</title>
+      <link>https://msuwama.github.io/publication/supersingular/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://msuwama.github.io/publication/supersingular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iwasawa Theory of Elliptic Curves</title>
+      <link>https://msuwama.github.io/talk/iwasawa-ec/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://msuwama.github.io/talk/iwasawa-ec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamental Groups and Galois Groups</title>
+      <link>https://msuwama.github.io/talk/fg-gg/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://msuwama.github.io/talk/fg-gg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Rational Points on Elliptic Curves</title>
+      <link>https://msuwama.github.io/talk/rat-points-ec/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://msuwama.github.io/talk/rat-points-ec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://msuwama.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://msuwama.github.io/cv/</guid>
+      <description>&lt;p&gt;Here is the current version of my CV. You can also 
+&lt;a href=&#34;https://www.dropbox.com/s/691jqf0x7f0dnvc/cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;download the PDF here&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src=&#34;//docs.google.com/viewer?url=https://dl.dropboxusercontent.com/s/691jqf0x7f0dnvc/cv.pdf?dl=0&amp;hl=en_US&amp;embedded=true&#34; class=&#34;gde-frame&#34; style=&#34;width:100%; height:800px; border: none;&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
