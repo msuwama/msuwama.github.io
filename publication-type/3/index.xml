@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Makoto Suwama</title>
-    <link>https://msuwama.github.io/publication/</link>
-      <atom:link href="https://msuwama.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>3 | Makoto Suwama</title>
+    <link>https://msuwama.github.io/publication-type/3/</link>
+      <atom:link href="https://msuwama.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://msuwama.github.io/images/icon_hu632f2e0d820f0ef829206115ea5b479d_7591_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
-      <link>https://msuwama.github.io/publication/</link>
+      <title>3</title>
+      <link>https://msuwama.github.io/publication-type/3/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://msuwama.github.io/publication/integerdynamics/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://msuwama.github.io/publication/integerdynamics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supersingular Primes for Elliptic Curves over $\mathbb{Q}$</title>
-      <link>https://msuwama.github.io/publication/supersingular/</link>
-      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://msuwama.github.io/publication/supersingular/</guid>
       <description></description>
     </item>
     

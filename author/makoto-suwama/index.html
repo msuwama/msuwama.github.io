@@ -72,6 +72,8 @@
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
 
     
 
@@ -204,6 +206,44 @@
   
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-174244272-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-174244272-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
   
@@ -615,7 +655,8 @@
     
     
 
-    <p>I am a math graduate student at the University of Georgia. My research interests include number theory, arithemetic geometry and commutative algebra. Outside of math, I am interested in puzzles like logic puzzles and 
+    <p>I am a math graduate student at the University of Georgia. My research interests include number theory, arithemetic geometry and commutative algebra. My advisor is 
+<a href="http://alpha.math.uga.edu/~lorenz/" target="_blank" rel="noopener">Prof. Dino Lorenzini</a>. Outside of math, I am interested in puzzles like logic puzzles and 
 <a href="https://en.wikipedia.org/wiki/Puzzlehunt" target="_blank" rel="noopener">puzzlehunts</a>.</p>
 
 
@@ -688,6 +729,8 @@
     
 
     
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     

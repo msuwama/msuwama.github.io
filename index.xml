@@ -5,12 +5,20 @@
     <link>https://msuwama.github.io/</link>
       <atom:link href="https://msuwama.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Makoto Suwama</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://msuwama.github.io/images/icon_hu632f2e0d820f0ef829206115ea5b479d_7591_512x512_fill_lanczos_center_2.png</url>
       <title>Makoto Suwama</title>
       <link>https://msuwama.github.io/</link>
     </image>
+    
+    <item>
+      <title>Integer Dynamics</title>
+      <link>https://msuwama.github.io/publication/integerdynamics/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://msuwama.github.io/publication/integerdynamics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Balanced Centrifuge Problem</title>
